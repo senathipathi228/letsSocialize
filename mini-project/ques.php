@@ -49,9 +49,10 @@
     <?php 
 
 define('HOST','localhost');
- define('USERNAME', 'id9177877_nithish');
- define('PASSWORD','vns_1998');
- define('DB','id9177877_socializer');
+ define('USERNAME', 'id10472497_sena');
+ define('PASSWORD','senathipathi');
+ define('DB','id10472497_socializer');
+
 
 
 // Create connection
