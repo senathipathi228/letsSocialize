@@ -1,0 +1,79 @@
+html,body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.myform{
+   text-align: center;
+    
+     margin-top: 12%;
+    display: block;
+    
+}
+#pass,#user{
+    
+    padding: 10px 40px;
+    text-align:center;
+    border-radius: 10px;
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+#insert{
+    
+    padding: 10px 40px;
+    text-align:center;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+   
+}
+#signup{
+    text-align: center;
+    background-color: white;
+    padding: 10px 30px;
+    margin-top: 70%;
+    margin-left: 46%;
+    border-radius: 20px;
+    
+}
+
+@media screen and (max-width: 800px) {
+ 
+     html{
+    background-image: url('https://wallpapers.ae/wp-content/uploads/2016/01/Shadowgraph-hd-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+    
+.myform{
+   text-align: center;
+     margin-top: 32%;
+    
+}
+#pass,#user{
+    
+    padding: 6px 5px;
+    text-align:center;
+   
+}
+#insert{
+    
+    padding: 5px 40px;
+
+    background-color: white;
+   
+}
+    #signup{
+    
+    background-color: white;
+    padding: 10px 30px;
+    margin-top: 70%;
+        margin-left: 37%;
+    
+}
+
+}

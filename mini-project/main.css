@@ -1,0 +1,38 @@
+html{
+   background-color:black;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    
+}
+form{
+    text-align: center;
+}
+#insert{
+    margin-top: 3%;
+    padding: 10px 40px;
+    text-align:center;
+    
+    background-color: white;
+    border-radius: 20px;
+   
+}
+#question{
+    font-size: 40px;
+}
+
+@media screen and (max-width: 800px) {
+    
+    
+    html{
+        font-size: 9px;
+    }
+    form{
+        text-align: center;
+    }
+    #question{
+    font-size: 20px;
+}
+    
+}
