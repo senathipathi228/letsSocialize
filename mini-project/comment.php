@@ -46,9 +46,9 @@
        if(isset($_POST['comment'])){
       // error_reporting(0);
 define('HOST','localhost');
- define('USERNAME', 'root');
- define('PASSWORD','malavelappan');
- define('DB','socializer');
+ define('USERNAME', 'id10472497_sena');
+ define('PASSWORD','senathipathi');
+ define('DB','id10472497_socializer');
 
 
 // Create connection
